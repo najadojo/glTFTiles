@@ -14,3 +14,5 @@ so that any errors can be detected and remedied.
 1. Select `Attach`
 1. Select `Select GLB` and pick the desired .glb file.
 1. Select `Place GLB`
+
+![Screenshot](20191024_093857_HoloLens.jpg)
